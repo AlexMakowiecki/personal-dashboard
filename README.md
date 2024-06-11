@@ -7,7 +7,8 @@ The website was done to practice using multiple APIs, and modern interaction wit
   - You can use await outside of an async function if the javascript file has the type "module".
   - Use of try()/catch() statements, to try a block of code and handle errors in it with catch.
 ## Preview
-![blackjack](https://github.com/AlexMakowiecki/blackjack/assets/122258496/6d248bc9-fb3f-42e8-8b12-b13a61c075f7)
+![dashboard](https://github.com/AlexMakowiecki/personal-dashboard/assets/122258496/c927ae6c-9f3c-4436-abb7-a592e6da783a)
+
 
 ## About Scrimba
 
