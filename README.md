@@ -1,7 +1,7 @@
 # Personal Dashboard
 ## Introduction
 It's a Chrome extension that replaces the page that appears when you create a new tab. The page shows general information (hour, weather, market currency) with a natural and relaxing background. 
-The website was done to practice using multiple APIs, and modern interaction with them using async/await.
+The website was made to practice using multiple APIs, and modern interaction with them using async/await.
 ## Concepts learned in the course
   - Use of .catch() to run code when a Promise is rejected (normally because of network errors)
   - You can use await outside of an async function if the javascript file has the type "module".
